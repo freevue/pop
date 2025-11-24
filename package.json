@@ -16,13 +16,13 @@
     "@nuxtjs/pwa": "^3.0.0-beta.16",
     "@nuxtjs/vuetify": "^1.2.1",
     "axios": "^0.21.2",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.18.1"
   },
   "devDependencies": {
     "@nuxt/typescript": "^2.8.1",
     "@typescript-eslint/parser": "^1.13.0",
     "babel-eslint": "^10.0.1",
-    "eslint": "^4.19.1",
+    "eslint": "^9.39.1",
     "eslint-friendly-formatter": "^4.0.1",
     "eslint-loader": "^2.1.1",
     "eslint-plugin-vue": "^4.0.0",
